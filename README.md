@@ -1,11 +1,9 @@
 # Penguins | R Visualization Project
 
-[![Static Badge](https://img.shields.io/badge/kaggle-lightblue?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=gray)](https://www.kaggle.com/datasets)
-[![Static Badge](https://img.shields.io/badge/microsoftexcel-green?style=for-the-badge&logo=microsoftexcel&logoColor=b&labelColor=gray)](https://www.microsoft.com/es-es/microsoft-365/excel)
-[![Static Badge](https://img.shields.io/badge/sqlite-red?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=gray)](https://www.sqlite.org/index.html)
-[![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)](https://www.python.org/)
-[![Static Badge](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=gray)
-](https://www.tableau.com/)
+[![Static Badge](https://img.shields.io/badge/tiddyverse-orange?style=for-the-badge&logo=tidyverse&logoColor=white&labelColor=gray)](https://www.kaggle.com/datasets)
+[![Static Badge](https://img.shields.io/badge/r_studio-red?style=for-the-badge&logo=rstudio&logoColor=white&labelColor=gray)](https://www.sqlite.org/index.html)
+[![Static Badge](https://img.shields.io/badge/r-blue?style=for-the-badge&logo=r&logoColor=white&labelColor=gray)
+](https://www.r-project.org/)
 
 ## Description
 
@@ -33,7 +31,9 @@ Pending to change
 - **Context:** todo.
 
 ### Tables
+
 To check
+
 #### 1. Books
 
 - `ISBN` (Primary Key)
@@ -70,9 +70,14 @@ To check
 
 - **Excel:** TODO
 
-## Queries and Analysis
+## Plots and Analysis
 
-- TODO
+1. TODO
+2. TODO
+3. TODO
+4. TODO
+5. TODO
+6. TODO
 
 ## Tableau Dashboard
 
@@ -89,7 +94,9 @@ To check
 - TODO
 
 ## Tasks Management
+
 TODO
 
 ## Credits
+
 Todo
