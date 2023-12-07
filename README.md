@@ -13,17 +13,15 @@ Todo
 
 Pending to change
 
-1. **Explore Data, Fields Convention:** Thoroughly examine the dataset, understand data distributions, and establish field conventions for consistency in data processing.
+1. Installing librarie.
 
-2. **Creating Data Entity Relationship Diagram (ERD):** Develop an ERD to visually represent the relationships between different entities (tables) in the database, providing a clear overview of the data model.
+2. **Explore Data, Fields Convention:** Thoroughly examine the dataset, understand data distributions, and establish field conventions for consistency in data processing.
 
-3. **Standup Database:** Implement a SQLite instance as the database backbone, providing a robust foundation for data storage and retrieval.
+3. **Code in Python:** To Copy Data from CSV Files to Tables in Database: Develop Python scripts to efficiently transfer data from CSV files to corresponding tables in the SQLite database, ensuring seamless integration.
 
-4. **Code in Python:** To Copy Data from CSV Files to Tables in Database: Develop Python scripts to efficiently transfer data from CSV files to corresponding tables in the SQLite database, ensuring seamless integration.
+4. **Data Analysis:** Utilize SQL queries and Python libraries (e.g., pandas) for data analysis with the dataset.
 
-5. **Data Analysis:** Utilize SQL queries and Python libraries (e.g., pandas) for data analysis with the dataset.
-
-6. **Tableau Integration:** In a recent enhancement, I introduced a Python script that seamlessly converts database data into a JSON file. This JSON file can now be effortlessly imported into Tableau, enabling the creation of dynamic visualizations. This addition not only enhances data accessibility but also serves as a powerful demonstration of the seamless integration capabilities between Python and Tableau in this project.
+5. **Tableau Integration:** In a recent enhancement, I introduced a Python script that seamlessly converts database data into a JSON file. This JSON file can now be effortlessly imported into Tableau, enabling the creation of dynamic visualizations. This addition not only enhances data accessibility but also serves as a powerful demonstration of the seamless integration capabilities between Python and Tableau in this project.
 
 ## Data Set
 
@@ -45,7 +43,10 @@ A glimpse into the initial rows of the dataset reveals a structured arrangement 
 
 ## Tools & Technologies Used
 
-- **Excel:** TODO
+- **R:** TODO
+- **R Studio:** TODO
+- **Tidyverse:** TODO
+- **ggplot2:** TODO
 
 ## Plots and Analysis
 
@@ -62,9 +63,8 @@ A glimpse into the initial rows of the dataset reveals a structured arrangement 
 
 ## How to Run the Analysis
 
-- TODO
-
-\*For more detail TODO.
+- Check **install-r-libs.txt** file to install libraries.
+- Download **code.R** file to run the plots.
 
 ## Future Enhancements
 
@@ -72,8 +72,8 @@ A glimpse into the initial rows of the dataset reveals a structured arrangement 
 
 ## Tasks Management
 
-TODO
+This project is part of the R practice sessions I undertook while completing the "[Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)" course offered by Google on Coursera.
 
 ## Credits
 
-Todo
+N/A
