@@ -27,44 +27,21 @@ Pending to change
 
 ## Data Set
 
-- **Data Source:** todo.
-- **Context:** todo.
+- **Data Source:** The dataset used in this project originates from the 'palmerpenguins' package within the 'tidyverse' ecosystem.
+  `Code: library("palmerpenguins")`
+- **Context:** It provides comprehensive information about penguins, including measurements and species details.
 
-### Tables
+#### Sample Rows:
 
-To check
+A glimpse into the initial rows of the dataset reveals a structured arrangement of data, providing a clear overview of the available information. These observations serve as the foundation for the subsequent R code and visualizations, offering a rich dataset for in-depth analysis.
 
-#### 1. Books
+![ERD](/funct-images/glimpse.png "ERD")
 
-- `ISBN` (Primary Key)
-- `Book-Title`
-- `Book-Author`
-- `Year-Of-Publication`
-- `Publisher`
-- `Image-URL-S`
-- `Image-URL-M`
-- `Image-URL-L`
+#### Key Attributes:
 
-#### 2. Ratings
-
-- `User-ID` (Foreign Key referencing `users`)
-- `ISBN` (Foreign Key referencing `books`)
-- `Book-Rating`
-
-#### 3. Users
-
-- `User-ID` (Primary Key)
-- `Location`
-- `Age`
-
-### Relationships
-
-- The `ratings` table has a foreign key relationship with the `books` table, referencing the `ISBN` field.
-- The `ratings` table has a foreign key relationship with the `users` table, referencing the `User-ID` field.
-
-### ERD
-
-![ERD](/erd-source/Data%20Entity%20Relationship%20Diagram.png "ERD")
+- Species Details: The dataset captures distinctive features of different penguin species, enabling a thorough examination of species-specific traits and behaviors.
+- Measurements: Precise measurements such as flipper length and body mass offer quantitative insights into the physical characteristics of individual penguins.
+- Categorical Information: Beyond numerical data, categorical variables like sex and species facilitate nuanced explorations, allowing for detailed comparisons and pattern identification.
 
 ## Tools & Technologies Used
 
