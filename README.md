@@ -7,8 +7,6 @@
 
 ## Description
 
-## Project Description
-
 This project utilizes the R programming language to explore and analyze a comprehensive penguin dataset. With details on flipper length, body mass, and species classification, our objectives include conducting Exploratory Data Analysis (EDA) and creating insightful visualizations using R's powerful tools. From scatter plots showcasing correlations to faceted visualizations exploring species and sex variations, each plot offers a unique perspective.
 
 ## Project Overview
